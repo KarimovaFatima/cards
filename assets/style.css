@@ -1,0 +1,265 @@
+* {
+    margin: 5px;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+.box
+{
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+}
+
+.structure 
+{
+    width: 250px;
+    height: 125px;
+    border: 2px solid #ff9500;
+    border-radius: 10%; 
+    
+}
+.fa-people-line
+{
+    position: absolute; 
+    top: -15px;
+    left: 25px;
+    font-size: 35px;
+}
+
+.staff-schedule
+{
+    width: 250px;
+    height: 125px;
+    border: 2px solid #ff9500;
+    border-radius: 10%;       
+    position: relative;
+}
+.fa-people-group
+{
+    position: absolute; 
+    top: -15px;
+    left: 25px;
+    font-size: 35px;
+}
+
+
+.positions
+{
+    width: 250px;
+    height: 125px;
+    border: 2px solid #ff9500;
+    border-radius: 10%;   
+    text-align: center;  
+    position: relative;
+}
+.fa-chart-simple
+{
+    position: absolute; 
+    top: -15px;
+    left: 25px;
+    font-size: 35px;
+}
+
+.calendar
+{
+    width: 250px;
+    height: 125px;
+    border: 2px solid #ff9500;
+    border-radius: 10%;   
+    text-align: center; 
+    position: relative;
+}
+.fa-calendar-days
+{
+    position: absolute; 
+    top: -15px;
+    left: 25px;
+    font-size: 35px;
+}
+
+.work-graphic
+{
+    width: 250px;
+    height: 125px;
+    border: 2px solid #ff9500;
+    border-radius: 10%;   
+    text-align: center; 
+    position: relative;
+}
+.fa-clipboard-list
+{ 
+    position: absolute; 
+    top: -15px;
+    left: 25px;
+    font-size: 35px;
+}
+
+.colleague
+{
+    width: 250px;
+    height: 125px;
+    border: 2px solid #ff9500;
+    border-radius: 10%;   
+    text-align: center;
+    position: relative;
+}
+.fa-people-group
+{
+    position: absolute; 
+    top: -15px;
+    left: 25px;
+    font-size: 35px;
+}
+
+.physical-person
+{
+    width: 250px;
+    height: 125px;
+    border: 2px solid #ff9500;
+    border-radius: 10%;   
+    text-align: center;   
+    position: relative;
+}
+.fa-address-card
+{ 
+    position: absolute; 
+    top: -15px;
+    left: 25px;
+    font-size: 35px;
+}
+.card
+{
+    width: 250px;
+    height: 125px;
+    border: 2px solid #ff9500;
+    border-radius: 10%;   
+    text-align: center;
+    position: relative;
+}
+.fa-user-check
+{
+    position: absolute; 
+    top: -15px;
+    left: 25px;
+    font-size: 35px;
+}
+
+.staff-turnover
+{
+    width: 250px;
+    height: 125px;
+    border: 2px solid #ff9500;
+    border-radius: 10%;   
+    text-align: center;
+    position: relative;
+}
+.fa-user-check
+{ 
+    position: absolute; 
+    top: -15px;
+    left: 25px;
+    font-size: 35px;
+}
+
+.second-card
+{
+    width: 250px;
+    height: 125px;
+    border: 2px solid #ff9500;
+    border-radius: 10%;   
+    text-align: center;
+    position: relative;
+}
+.fa-people-arrows
+{
+    position: absolute; 
+    top: -15px;
+    left: 25px;
+    font-size: 35px;
+}
+.vacation
+{
+    width: 250px;
+    height: 125px;
+    border: 2px solid #ff9500;
+    border-radius: 10%;   
+    text-align: center;
+    position: relative;
+}
+.fa-user-xmark
+{
+    position: absolute; 
+    top: -15px;
+    left: 25px;
+    font-size: 35px;
+}
+
+.third-card
+{
+    width: 250px;
+    height: 125px;
+    border: 2px solid #ff9500;
+    border-radius: 10%;   
+    text-align: center;
+    position: relative;
+}
+.fa-umbrella-beach
+{
+    position: absolute; 
+    top: -15px;
+    left: 25px;
+    font-size: 35px;
+}
+
+.fourth-card
+{
+    width: 250px;
+    height: 125px;
+    border: 2px solid #ff9500;
+    border-radius: 10%;   
+    text-align: center;
+    position: relative;
+}
+.fa-file-medical
+{
+    position: absolute; 
+    top: -15px;
+    left: 25px;
+    font-size: 35px;
+}
+.fa-plane-up
+{
+    position: absolute; 
+    top: -15px;
+    left: 25px;
+    font-size: 35px;
+}
+ .awards
+ {
+    width: 250px;
+    height: 125px;
+    border: 2px solid #ff9500;
+    border-radius: 10%;   
+    text-align: center;
+    position: relative;
+}
+.fa-award
+{ 
+    position: absolute; 
+    top: -15px;
+    left: 25px;
+    font-size: 35px;
+}
+
+
+
+div h4
+{
+    color: #975902;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    padding-top: 40px;
+}
+
